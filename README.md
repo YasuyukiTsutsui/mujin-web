@@ -1,5 +1,5 @@
 # MUJIN
-MUJINのWeb用Repositoryです。  
+ソフトウェア工学という講義で作成した無人売店システム「MUJIN」の管理者用Webシステムです。  
 
 # About
 Ruby 2.5.1  
@@ -19,3 +19,6 @@ rake db:migrate -> docker-compose run web rake db:migrate
 
 # Thanks to
 https://qiita.com/shunichi_com/items/4a84476bfeec7c4cf623
+
+# 追記
+自分がGitアカウントの設定を誤っていたため、Contributorsで自分のコミットのほとんどが集計されていないですが、Commitには自分の名前で表示されています．
